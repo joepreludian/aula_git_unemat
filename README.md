@@ -5,6 +5,7 @@ Lista de participantes da aula:
 
 * Jonhnatha Trigueiro
 * Denis Silva Nogueira
+* Bruna Pontes
 
 | Nome | Valor |
 | --- | ---: |
