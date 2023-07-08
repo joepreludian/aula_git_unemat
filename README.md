@@ -5,3 +5,10 @@ Lista de participantes da aula:
 
 * Jonhnatha Trigueiro
 * Denis Silva Nogueira
+
+| Nome | Valor |
+| --- | ---: |
+| Jon | 0 |
+| Denis | 10 | 
+| Bruna | 10 | 
+| Ricardo | 10 |
