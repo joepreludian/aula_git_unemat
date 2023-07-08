@@ -4,3 +4,4 @@ Aula de GIT para os amigos da Unemat
 Lista de participantes da aula:
 
 * Jonhnatha Trigueiro
+* Denis Silva Nogueira
